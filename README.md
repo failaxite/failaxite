@@ -28,9 +28,9 @@
 
 - 🤝 Je cherche de l'aide pour [HistoriaMC](https://discord.historiamc.fr)
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://failaxite.fr](https://failaxite.fr)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://failaxite.fr](https://failaxite.fr) ou [Github](https://githu.com/failaxite)
 
-- 📫 Comment me joindre **failaxite.don@gmail.com**
+- 📫 Vous pouvez me joindre par mail **failaxite.don@gmail.com** ou Discord **failaxite#6716**
 
 <br>
 
