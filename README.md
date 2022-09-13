@@ -25,7 +25,7 @@
 
 - 📫 Comment me joindre **failaxite.don@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials Media:</h3>
 
 <a href="https://twitter.com/failaxite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="failaxite" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/felix-laplace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix-laplace" height="30" width="40" /></a>
