@@ -17,8 +17,10 @@
 <p><img align = "right"  alt = "gif" src= "https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300" heigth="300"/></p>
 
 <h3 align="left">🧐 - More About Me:</h3>
-
-
+<br>
+<br>
+<br>
+<br>
 - 🔭 Je travaille actuellement sur [HistoriaMC](https://discord.historiamc.fr)
 
 - 🌱 J'apprends actuellement **Java , Web Developpement , Linux**
