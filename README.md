@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/failaxiteo" target="blank"><img src="https://img.shields.io/twitter/follow/failaxiteo?logo=twitter&style=for-the-badge" alt="failaxiteo" /></a> </p>
 
-- 🔭 I’m currently working on [HistoriaMC](https://discord.historiamc.fr)
+- 🔭 Je travaille actuellement sur [HistoriaMC](https://discord.historiamc.fr)
 
-- 🌱 I’m currently learning **Java , Web Developpement , Linux**
+- 🌱 J'apprends actuellement **Java , Web Developpement , Linux**
 
-- 👯 I’m looking to collaborate on [HistoriaMC](https://discord.historiamc.fr)
+- 👯 Je cherche à collaborer sur [HistoriaMC](https://discord.historiamc.fr)
 
-- 🤝 I’m looking for help with [HistoriaMC](https://discord.historiamc.fr)
+- 🤝 Je cherche de l'aide pour [HistoriaMC](https://discord.historiamc.fr)
 
-- 👨‍💻 All of my projects are available at [https://failaxite.fr](https://failaxite.fr)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://failaxite.fr](https://failaxite.fr)
 
-- 📫 How to reach me **failaxite.don@gmail.com**
+- 📫 Comment me joindre **failaxite.don@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
