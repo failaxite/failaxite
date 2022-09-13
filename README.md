@@ -1,4 +1,4 @@
-<h1 align="center">Hi <p><img align = "center"  alt = "gif" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"width="30" heigth="30"/></p> , I'm failaxite</h1>
+<h1 align="center">Hi <p><img align = "center"  alt = "gif" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"width="30" heigth="30"/> , I'm failaxite</h1></p>
 <h3 align="center">A passionate frontend & backend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=failaxite&label=Profile%20views&color=0e75b6&style=flat" alt="failaxite" /> </p>
