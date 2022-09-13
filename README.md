@@ -16,7 +16,7 @@
 
 <p><img align = "right"  alt = "gif" src= "https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300" heigth="300"/></p>
 
-<h3 align="left">🧐 More About Me:</h3>
+<h3 align="left">🧐 - More About Me:</h3>
 
 
 - 🔭 Je travaille actuellement sur [HistoriaMC](https://discord.historiamc.fr)
@@ -31,7 +31,7 @@
 
 - 📫 Comment me joindre **failaxite.don@gmail.com**
 
-<h3 align="left">My Socials Media:</h3>
+<h3 align="left">⭐ - My Socials Media:</h3>
 
 <a href="https://twitter.com/failaxite" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="failaxite" height="60" width="60" /></a>
 <a href="https://linkedin.com/in/felix-laplace" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="felix-laplace" height="80" width="80" /></a>
