@@ -18,6 +18,7 @@
 
 <h3 align="left">🧐 More About Me:</h3>
 
+
 - 🔭 Je travaille actuellement sur [HistoriaMC](https://discord.historiamc.fr)
 
 - 🌱 J'apprends actuellement **Java , Web Developpement , Linux**
