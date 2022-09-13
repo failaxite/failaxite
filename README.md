@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failaxite" alt="failaxite" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/failaxiteo" target="blank"><img src="https://img.shields.io/twitter/follow/failaxiteo?logo=twitter&style=for-the-badge" alt="failaxiteo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/failaxite" target="blank"><img src="https://img.shields.io/twitter/follow/failaxite?logo=twitter&style=for-the-badge" alt="failaxite" /></a> </p>
 
 - 🔭 Je travaille actuellement sur [HistoriaMC](https://discord.historiamc.fr)
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/failaxiteo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="failaxiteo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felix laplace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix laplace" height="30" width="40" /></a>
-<a href="https://instagram.com/failaxite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="failaxite" height="30" width="40" /></a>
+<a href="https://twitter.com/failaxite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="failaxite" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felix-laplace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felix-laplace" height="30" width="40" /></a>
+<a href="https://instagram.com/failaxitee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="failaxitee" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/failaxite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="failaxite" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/s4byxSRJYM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/s4byxSRJYM" height="30" width="40" /></a>
 </p>
@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=failaxite&show_icons=true&locale=en" alt="failaxite" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=failaxite&" alt="failaxite" /></p>
+
