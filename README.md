@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=failaxite&label=Profile%20views&color=0e75b6&style=flat" alt="failaxite" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failaxite" alt="failaxite" /></a> </p>
 
 
 
@@ -51,5 +50,7 @@
 
 <h3>📊 Github Stats</h3>
 <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failaxite" alt="failaxite" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=failaxite&show_icons=true&locale=en" alt="failaxite" /></p>
