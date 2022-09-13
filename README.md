@@ -13,6 +13,8 @@
 <p><img align = "center"  alt = "gif" src= "https://camo.githubusercontent.com/2bb027226280084c5edab512b6817ac84989a3f5113a088b77ee23a986bcb50f/68747470733a2f2f632e74656e6f722e636f6d2f703749677753313756307341414141432f72746a2d7269636b2d616e642d6d6f7274792e676966" width="500" heigth="350"/></p>
 
 
+<p><img align = "right"  alt = "gif" src= "https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="500" heigth="350"/></p>
+
 - 🔭 Je travaille actuellement sur [HistoriaMC](https://discord.historiamc.fr)
 
 - 🌱 J'apprends actuellement **Java , Web Developpement , Linux**
