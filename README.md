@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left"> <a href="https://twitter.com/failaxite" target="blank"><img src="https://img.shields.io/twitter/follow/failaxite?logo=twitter&style=for-the-badge" alt="failaxite" /></a> </p>
+<p align="left"> <a href="https://twitter.com/failaxite" target="blank"><img src="https://img.shields.io/twitter/follow/failaxite?style=social" alt="failaxite" /></a> </p>
 
 
 <p align="left"> <a href="https://youtube.com/c/failaxite" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCFk8b2R7xLDsI1eqKKd3eHA?style=social" alt="failaxite" /></a> </p>
