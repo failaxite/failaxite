@@ -33,7 +33,6 @@
 - 📫 Comment me joindre **failaxite.don@gmail.com**
 
 <br>
-<br>
 
 <h3 align="left">⭐ - My Socials Media:</h3>
 <br>
@@ -45,7 +44,6 @@
 <a href="https://discord.gg/https://discord.gg/s4byxSRJYM" target="blank"><img align="center" alt="gif" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="https://discord.gg/s4byxSRJYM" height="50" width="50" /></a>
 </p>
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools Used:</h3>
