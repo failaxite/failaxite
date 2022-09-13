@@ -23,6 +23,9 @@
 <p align="left"> <a href="https://twitter.com/failaxite" target="blank"><img src="https://img.shields.io/twitter/follow/failaxite?style=social" alt="failaxite" /></a> </p>
 
 
+<ul id="socialbar"><li id="linkedin"><a target="_blank" href="http://www.linkedin.com/felix-laplace"><IMG src="http://www.topproducerwebsite.com/images/site_defaults/generic/linkedin.png"></a></li></ul><style>#socialbar img {border:0px;}#socialbar li img {width:48px; height:48px;}#socialbar li a:hover {position:relative;top:2px;}#socialbar{padding:0px;list-style: none outside none; margin:0px; position: static;}#socialbar li {display:inline;padding-right:2px;}#socialbar{width:180px;text-align:center;}</style>
+
+
 <p align="left"> <a href="https://youtube.com/c/failaxite" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCFk8b2R7xLDsI1eqKKd3eHA?style=social" alt="failaxite" /></a> </p>
 
 
