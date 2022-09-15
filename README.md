@@ -14,7 +14,7 @@
 <br>
 
 
-<p><img align = "right"  alt = "gif" src= "https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300" heigth="300"/></p>
+<p><img align = "right"  alt = "gif" src= "https://media.discordapp.net/attachments/512761795459416065/1019850113981624320/giphy.gif" width="300" heigth="300"/></p>
 
 <h3 align="left">🧐 - More About Me:</h3>
 <br>
