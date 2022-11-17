@@ -33,7 +33,6 @@
 <br>
 
 <a href="https://twitter.com/failaxite" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="failaxite" height="60" width="60" /></a>
-<a href="https://linkedin.com/in/felix-laplace" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="felix-laplace" height="80" width="80" /></a>
 <a href="https://instagram.com/failaxitee" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="failaxitee" height="80" width="80" /></a>
 <a href="https://www.youtube.com/c/failaxite" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_400px.gif" alt="failaxite" height="80" width="80" /></a>
 <a href="https://discord.gg/https://discord.gg/s4byxSRJYM" target="blank"><img align="center" alt="gif" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="https://discord.gg/s4byxSRJYM" height="50" width="50" /></a>
