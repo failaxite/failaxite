@@ -45,7 +45,7 @@
 
 <h3>📊 Github Stats</h3>
 <br>
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=failaxite&theme=tokyonight"/>
+<p><img align="left" src= "https://github-profile-trophy.vercel.app/?username=failaxite&theme=tokyonight"/><p>
 </a> </p>
 
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=failaxite&show_icons=true&theme=tokyonight"/><p>
