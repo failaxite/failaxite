@@ -45,8 +45,8 @@
 
 <h3>📊 Github Stats</h3>
 <br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failaxite" alt="failaxite" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=failaxite&theme=tokyonight"/>
+</a> </p>
 
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=failaxite&show_icons=true&theme=tokyonight"/><p>
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=failaxite&show_icons=true&theme=tokyonight"/><p>
