@@ -15,17 +15,15 @@
 <h3 align="left">🧐 - More About Me:</h3>
 <br>
 
-- 🔭 Je travaille actuellement sur [HistoriaMC](https://discord.historiamc.fr)
+- 🔭  I’m currently working on [HistoriaMC](https://discord.historiamc.fr)
 
-- 🌱 J'apprends actuellement **Java , Web Developpement , Linux**
-
-- 👯 Je cherche à collaborer sur [HistoriaMC](https://discord.historiamc.fr)
+- 🌱 I’m currently learning **Java , Web Developpement , Linux**
 
 - 🤝 Je cherche de l'aide pour [HistoriaMC](https://discord.historiamc.fr)
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://failaxite.fr](https://failaxite.fr) ou [Github](https://github.com/failaxite)
+- 👨‍💻 All my projects are available on [https://failaxite.fr](https://failaxite.fr) ou [Github](https://github.com/failaxite)
 
-- 📫 Vous pouvez me joindre par mail **failaxite.don@gmail.com** ou Discord **failaxite#6716**
+- 📫 How to reach me ? Mail : **failaxite.don@gmail.com** or Discord : **failaxite#6716**
 
 <br>
 
