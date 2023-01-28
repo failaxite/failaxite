@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Java , Web Developpement , Linux**
 
-- 🤝 Je cherche de l'aide pour [HistoriaMC](https://discord.historiamc.fr)
+- 🤝 I am looking for help for [HistoriaMC](https://discord.historiamc.fr)
 
 - 👨‍💻 All my projects are available on [https://failaxite.fr](https://failaxite.fr) ou [Github](https://github.com/failaxite)
 
